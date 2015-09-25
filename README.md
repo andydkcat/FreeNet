@@ -1,0 +1,2 @@
+# FreeNet
+gfwlist rules
