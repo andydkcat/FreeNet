@@ -24,9 +24,10 @@ Match all address beginning with https://ssl.example.com, used when some IP's HT
 
 * |http://example.com
 
-Match all address beginning with http://example.com, used for short domains, like URL shortening services to avoid "slow rules". Also a temporary fix for issue 117.
+Match all address beginning with http://example.com, used for short domains, like URL shortening services to avoid "slow rules".
 
 * /^https?:\/\/[^\/]+example\.com/
+
 Match domain including "example.com" chars, it's a regex, used when the chars are DNS poisoning keyword.
 
 * @@||example.com
