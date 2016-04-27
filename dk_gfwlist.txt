@@ -5321,4 +5321,5 @@ taipei.gov.tw
 ||discourse.org
 ||bootstrapcdn.com
 ||.dailymotion.com
+||medium.com
 !---------------------EOF-----------------------
